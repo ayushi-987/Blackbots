@@ -1,4 +1,4 @@
-# BLACKBOTS_UNITY3D
+# BLOCKBOTS_UNITY3D
 
 Block bots is a Unity developed, 3D game. It aims to provide the player good graphics with Unity’s Physics .
 
