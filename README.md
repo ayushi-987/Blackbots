@@ -1,16 +1,23 @@
-# Blackbots_Unity3D
+# BLACKBOTS_UNITY3D
 
 Block bots is a Unity developed, 3D game. It aims to provide the player good graphics with Unity’s Physics .
+
 Currently the game is made in two kinds of playing environment- Natural and Indoor. For completing the game the player has to reach the target by eliminating the enemy bots for each level. For every bot (player/enemies) there is a defined health bar which depletes during battle.
 
 # Game Features:-
 
 BUILD: Create your own bot
+
 FIGHT: Drain other’s health
+
 CUSTOMIZE: Unlock abilities and upgrade bots
+
 LEARN: Enhance creative thinking
+
 INTERACT: Multiple parts to work with
+
 Unity 3D: Good Graphics for environment 
+
 Android SDK: Android-based platform.
 
 # Tools used:-
@@ -20,8 +27,9 @@ UNITY ENGINE- Unity is a cross-platform game engine developed by Unity Technolog
 ANDROID SDK- The Android SDK (Software Development Kit) is a set of development tools that are used to develop applications for the Android platform. This SDK provides a selection of tools that are required to build Android applications and ensures the process goes as smoothly as possible.
 
 BLENDER- Prime model making tool used in the game development.
+
          Provides easy working environment.
-         Features:
+Features:
          Layout, Modelling, Sculpting
          UV editing, Texturing, Shading
          Animation
