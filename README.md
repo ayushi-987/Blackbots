@@ -39,7 +39,6 @@ VISUAL STUDIO CODE- For C# Scripting.
 
 # Overall Snaps:-
 
-![Screenshot (144)](https://user-images.githubusercontent.com/70092571/113256222-823b7480-92e6-11eb-853b-ba9f93dd6834.png)
 ![Screenshot (145)](https://user-images.githubusercontent.com/70092571/113256231-84053800-92e6-11eb-9279-1ffc0e0179a5.png)
 ![Screenshot (146)](https://user-images.githubusercontent.com/70092571/113256232-849dce80-92e6-11eb-8abe-e26c81c6f4f8.png)
 ![Screenshot (147)](https://user-images.githubusercontent.com/70092571/113256237-85cefb80-92e6-11eb-9218-a3dd7d61ee87.png)
@@ -52,8 +51,8 @@ VISUAL STUDIO CODE- For C# Scripting.
 ![Screenshot (154)](https://user-images.githubusercontent.com/70092571/113256255-8b2c4600-92e6-11eb-81ba-fa215d9c2c50.png)
 
 # Team:-
-  Ayushi Soni
-  Arpit chaurasia
+  Ayushi Soni,
+  Arpit chaurasia,
   Prachi baranwal.
               - Having great fun.
 
