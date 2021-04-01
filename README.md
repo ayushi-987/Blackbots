@@ -46,23 +46,11 @@ VISUAL STUDIO CODE- For C# Scripting.
 ![Screenshot (129)](https://user-images.githubusercontent.com/70092571/113254480-3f789d00-92e4-11eb-8204-7b10d6dc3ef5.png)
 
 # Overall Snaps:-
-
-![Screenshot (145)](https://user-images.githubusercontent.com/70092571/113256231-84053800-92e6-11eb-9279-1ffc0e0179a5.png)
-![Screenshot (146)](https://user-images.githubusercontent.com/70092571/113256232-849dce80-92e6-11eb-8abe-e26c81c6f4f8.png)
+https://user-images.githubusercontent.com/70092571/113266458-ed8b4380-92f2-11eb-9bfc-9b62e176fd6a.mp4
 ![Screenshot (147)](https://user-images.githubusercontent.com/70092571/113256237-85cefb80-92e6-11eb-9218-a3dd7d61ee87.png)
-![Screenshot (148)](https://user-images.githubusercontent.com/70092571/113256238-86679200-92e6-11eb-9465-7eaa1c9b770e.png)
 ![Screenshot (149)](https://user-images.githubusercontent.com/70092571/113256243-87002880-92e6-11eb-9075-9c2e05f3f6be.png)
-![Screenshot (150)](https://user-images.githubusercontent.com/70092571/113256245-8798bf00-92e6-11eb-9547-c1a2b2b83b12.png)
-![Screenshot (151)](https://user-images.githubusercontent.com/70092571/113256246-88c9ec00-92e6-11eb-90c3-a8ea1840c126.png)
-![Screenshot (152)](https://user-images.githubusercontent.com/70092571/113256251-89628280-92e6-11eb-810a-8f438a18bf3a.png)
-![Screenshot (153)](https://user-images.githubusercontent.com/70092571/113256252-8a93af80-92e6-11eb-92fb-e461752a1692.png)
-![Screenshot (154)](https://user-images.githubusercontent.com/70092571/113256255-8b2c4600-92e6-11eb-81ba-fa215d9c2c50.png)
 
-# Team:-
-  Ayushi Soni,
-  Arpit chaurasia,
-  Prachi baranwal.
-              - Having great fun.
+
 
 
 
